@@ -1,0 +1,54 @@
+.text-center{
+    font-size: 60px;
+}
+#logo{
+    width: 50px;
+    border-radius: 100%;
+}
+
+.landing-text{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+footer{
+    width: 100%;
+    background-color: rgb(59, 58, 58);
+    padding-top: 2%;
+    color: white;
+}
+
+.footer .footer-contact{
+    font-size: 15px;
+}
+
+.fa{
+    padding-right: 5%;
+    font-size: 15px;
+}
+.fa:hover{
+    color: rgb(175, 157, 157);
+}
+
+#copyright{
+    font-size: small;
+    padding-bottom: 1rem;
+}
+
+.icon{
+    max-width: 90px;
+}
